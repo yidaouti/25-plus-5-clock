@@ -1,0 +1,23 @@
+/* src/App.css */
+
+.app {
+    background-color: #f8f9fa; /* Light background */
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for card */
+  }
+  
+  .card-header {
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white;
+  }
+  
+  .card-body {
+    background-color: white; /* Card body background */
+  }
+  
+  .btn {
+    width: 100%; /* Full width buttons */
+  }
+  
